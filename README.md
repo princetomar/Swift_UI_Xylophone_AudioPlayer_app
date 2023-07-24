@@ -8,11 +8,11 @@ The goal of this project is to dive into a simple iOS recipe - how to play sound
 
 
 
-## What you will create
+## What are we creating
 
 You will be making your first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this module, we’re going to make a colourful XyloPhone app. Get it? Ok, the jokes are bad, but remember, I only wrote the good ones... 
 
-## What you will learn
+## Learning Outcomes
 
 * How to play sound using AVFoundation and AVAudioPlayer.
 * Understand Apple documentation and how to use StackOverflow.
